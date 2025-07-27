@@ -82,6 +82,6 @@ make clean
 
 - A C++ compiler that supports C++11 or higher
 - Make utility
-- PNG library files provided with the assignment
+- PNG library files
 
 
